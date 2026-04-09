@@ -1,0 +1,111 @@
+🛒 Tech Dev E-commerce
+
+Um projeto de e-commerce moderno e responsivo, inspirado no design da Amazon, desenvolvido com HTML, CSS e JavaScript. O objetivo é oferecer uma experiência visual elegante e funcional, utilizando uma paleta de cores sofisticada e recursos interativos.
+
+🎨 Paleta de Cores
+
+Cor
+
+Código
+
+Uso
+
+Branco
+
+#ffffff
+
+Fundo e textos secundários
+
+Cinza Claro
+
+#E5E5E5
+
+Áreas neutras e separadores
+
+Laranja
+
+#FCA311
+
+Destaques e botões de ação
+
+Azul Escuro
+
+#14213D
+
+Cabeçalho e rodapé
+
+Preto
+
+#000000
+
+Textos principais
+
+🧩 Estrutura do Projeto
+
+/ecommerce
+├── index.html       # Estrutura principal da página
+├── style.css        # Estilos e animações
+├── script.js        # Lógica e interatividade
+└── favicon.png      # Ícone da marca Tech Dev
+
+⚙️ Funcionalidades
+
+Adição e remoção de produtos do carrinho.
+
+Exibição dinâmica da quantidade de itens.
+
+Aplicação automática de 15% de desconto em todos os produtos.
+
+Plaquinha animada de oferta acima do preço.
+
+Ícones e botões com efeitos de hover.
+
+Favicon personalizado com as iniciais TD.
+
+💻 Tecnologias Utilizadas
+
+HTML5 – Estrutura semântica e acessível.
+
+CSS3 – Layout responsivo, animações e efeitos visuais.
+
+JavaScript – Manipulação de DOM e lógica do carrinho.
+
+🚀 Como Executar o Projeto
+
+Clone ou baixe este repositório.
+
+Abra o arquivo index.html em qualquer navegador moderno.
+
+Interaja com os produtos e observe o carrinho sendo atualizado em tempo real.
+
+🧠 Boas Práticas Implementadas
+
+Código modular e comentado.
+
+Uso de variáveis CSS para consistência visual.
+
+Separação clara entre estrutura, estilo e lógica.
+
+Responsividade para diferentes tamanhos de tela.
+
+🧱 Favicon
+
+O favicon foi criado com as iniciais TD (Tech Dev), nas cores da paleta oficial, com dimensões 16x16px, ideais para navegadores.
+
+<link rel="icon" type="image/png" href="favicon.png">
+
+🔮 Melhorias Futuras
+
+Implementar painel lateral para o carrinho.
+
+Adicionar sistema de login e cadastro.
+
+Criar página de checkout.
+
+Integrar com banco de dados e API de produtos.
+
+Adicionar filtros e busca avançada.
+
+👩‍💻 Autoria
+
+Desenvolvido por Lívia Costa.
